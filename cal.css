@@ -40,6 +40,8 @@
     background-color: #e3e6f3;
     color: #35424a;
 }
+.calcu button:hover{
+    transform:scal(1.01);
 #color{
     color: orange;
 }
